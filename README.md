@@ -5,7 +5,7 @@ This is a news aggregator designed to make it easier to view news by category.
 I tried to write a beautiful interface that would be pleasing to the eye  
 and force the user to return to the application again.
 ## Donate 
-<a href="https://www.paypal.com/paypalme/makstudioo/5usd">PayPal</a>
+<a target="blank" href="https://www.paypal.com/paypalme/makstudioo/5usd">PayPal</a>
 
 
 # Stable App Version - 1.0.1 
